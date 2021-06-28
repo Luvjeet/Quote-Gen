@@ -30,7 +30,7 @@ body{
 .quote-text{
     /* relative responsive text 1rem = 16px */
     font-size: 2.75rem;
-    font-weight: bolder;
+    font-weight: bold;
 }
 
 .long-quote{
